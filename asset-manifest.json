@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/RhythmRhyme/reactPublish/static/css/main.6dea0f05.chunk.css",
+    "main.js": "/RhythmRhyme/reactPublish/static/js/main.81db985c.chunk.js",
+    "main.js.map": "/RhythmRhyme/reactPublish/static/js/main.81db985c.chunk.js.map",
+    "runtime-main.js": "/RhythmRhyme/reactPublish/static/js/runtime-main.091be92e.js",
+    "runtime-main.js.map": "/RhythmRhyme/reactPublish/static/js/runtime-main.091be92e.js.map",
+    "static/js/2.bd5c43fb.chunk.js": "/RhythmRhyme/reactPublish/static/js/2.bd5c43fb.chunk.js",
+    "static/js/2.bd5c43fb.chunk.js.map": "/RhythmRhyme/reactPublish/static/js/2.bd5c43fb.chunk.js.map",
+    "index.html": "/RhythmRhyme/reactPublish/index.html",
+    "static/css/main.6dea0f05.chunk.css.map": "/RhythmRhyme/reactPublish/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.bd5c43fb.chunk.js.LICENSE.txt": "/RhythmRhyme/reactPublish/static/js/2.bd5c43fb.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.091be92e.js",
+    "static/js/2.bd5c43fb.chunk.js",
+    "static/css/main.6dea0f05.chunk.css",
+    "static/js/main.81db985c.chunk.js"
+  ]
+}
